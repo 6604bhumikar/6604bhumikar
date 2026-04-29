@@ -52,28 +52,21 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
 
 ## Skills
 
-<table>
-  <tr>
-    <td width="25%"><b>Frontend</b></td>
-    <td>React.js, JavaScript, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Node.js, Express.js, Django, REST APIs</td>
-  </tr>
-  <tr>
-    <td><b>Data & ML</b></td>
-    <td>Python, Pandas, SQL, Scikit-Learn, Streamlit</td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td>RAG, LangChain, LangGraph, Generative AI</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git, GitHub, Postman, Power BI, VS Code</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,django,mongodb,python" alt="Core development skills" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,git,github,postman,vscode" alt="Data, ML and tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
 
 ---
 
@@ -83,15 +76,11 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
   <tr>
     <td width="50%" valign="top">
       <h3>Shikshana AI Learning Platform</h3>
-      <p><b>React.js | Node.js | Express.js | MongoDB | JWT</b></p>
-      <p>
-        A full-stack learning management system for students and teachers, built around course workflows,
-        authentication, assignments, quizzes, enrollment, and AI-based learning support.
-      </p>
-      <p>
-        <b>Highlights:</b> role-based dashboards, course management APIs, secure login, assignment and quiz modules,
-        frontend-backend integration.
-      </p>
+      <p><img src="https://img.shields.io/badge/Full_Stack-0F766E?style=flat-square" alt="Full Stack" />
+      <img src="https://img.shields.io/badge/EdTech-2563EB?style=flat-square" alt="EdTech" /></p>
+      <p>A student-teacher LMS for courses, enrollments, assignments, quizzes, authentication, and AI-supported learning workflows.</p>
+      <p><b>Built:</b> role-based dashboards, secure auth, course APIs, assignment and quiz modules.</p>
+      <p><b>Stack:</b> React.js, Node.js, Express.js, MongoDB, JWT</p>
       <p>
         <a href="https://github.com/6604bhumikar?tab=repositories&q=shikshana">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -100,15 +89,11 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
     </td>
     <td width="50%" valign="top">
       <h3>RAG AI Teaching Assistant 2.0</h3>
-      <p><b>Python | LangChain | LangGraph | RAG | Groq API</b></p>
-      <p>
-        An AI-powered teaching assistant that answers questions from lecture transcripts using semantic retrieval
-        and grounded LLM responses.
-      </p>
-      <p>
-        <b>Highlights:</b> transcript processing, vector search, retrieval-augmented generation, multi-step reasoning,
-        cloud and local LLM support.
-      </p>
+      <p><img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" alt="Generative AI" />
+      <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" /></p>
+      <p>An AI assistant that answers lecture questions using transcript processing, semantic search, and grounded generation.</p>
+      <p><b>Built:</b> retrieval pipeline, vector search, LangGraph workflow, cloud and local LLM support.</p>
+      <p><b>Stack:</b> Python, LangChain, LangGraph, RAG, Groq API</p>
       <p>
         <a href="https://github.com/6604bhumikar/rag-ai-teaching-assistant-2.0">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -119,15 +104,11 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
   <tr>
     <td width="50%" valign="top">
       <h3>Credit & Fraud ML Projects</h3>
-      <p><b>Python | Scikit-Learn | Streamlit | Flask | Vercel</b></p>
-      <p>
-        A machine learning studio for credit default prediction and fraud detection with real-time scoring,
-        model metrics, and analyst-friendly risk explanations.
-      </p>
-      <p>
-        <b>Highlights:</b> imbalanced-data handling, threshold tuning, Flask APIs, Streamlit dashboard,
-        Vercel-ready deployment.
-      </p>
+      <p><img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Vercel_Ready-000000?style=flat-square" alt="Vercel Ready" /></p>
+      <p>A Python ML studio for credit default prediction and fraud detection with real-time scoring interfaces.</p>
+      <p><b>Built:</b> imbalanced-data pipelines, threshold tuning, Flask APIs, Streamlit dashboard.</p>
+      <p><b>Stack:</b> Python, Scikit-Learn, Streamlit, Flask, Vercel</p>
       <p>
         <a href="https://github.com/6604bhumikar/Credit-Fraud-ML">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -136,14 +117,11 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
     </td>
     <td width="50%" valign="top">
       <h3>Vendor Performance Analysis</h3>
-      <p><b>Python | SQL | Pandas | Power BI | Excel</b></p>
-      <p>
-        An analytics project focused on vendor performance, purchase behavior, inventory movement,
-        unsold capital, and business recommendations.
-      </p>
-      <p>
-        <b>Highlights:</b> SQL analysis, Python EDA, Power BI dashboards, KPI tracking, business insight reporting.
-      </p>
+      <p><img src="https://img.shields.io/badge/Data_Analytics-0F766E?style=flat-square" alt="Data Analytics" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" /></p>
+      <p>A business analytics project for vendor trends, purchase behavior, inventory movement, and unsold capital.</p>
+      <p><b>Built:</b> SQL analysis, Python EDA, KPI dashboard, business recommendation report.</p>
+      <p><b>Stack:</b> Python, SQL, Pandas, Power BI, Excel</p>
       <p>
         <a href="https://github.com/6604bhumikar/vendor-performance-analysis">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -154,15 +132,11 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
   <tr>
     <td width="50%" valign="top">
       <h3>App-Builder AI</h3>
-      <p><b>Python | LangChain | LangGraph | Pydantic</b></p>
-      <p>
-        An agentic AI project that converts natural language app ideas into structured code plans and
-        generated application files using validated tool schemas.
-      </p>
-      <p>
-        <b>Highlights:</b> prompt-to-app workflow, structured output validation, multi-step planning,
-        agent-style code generation.
-      </p>
+      <p><img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" alt="Agentic AI" />
+      <img src="https://img.shields.io/badge/Code_Generation-111827?style=flat-square" alt="Code Generation" /></p>
+      <p>An AI workflow that turns natural language app ideas into structured plans and generated application files.</p>
+      <p><b>Built:</b> prompt-to-app flow, tool schemas, structured validation, multi-step planning.</p>
+      <p><b>Stack:</b> Python, LangChain, LangGraph, Pydantic</p>
       <p>
         <a href="https://github.com/6604bhumikar/App-Builder-AI">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -171,14 +145,11 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
     </td>
     <td width="50%" valign="top">
       <h3>TradeSim</h3>
-      <p><b>React.js | JavaScript | API Integration</b></p>
-      <p>
-        A trading simulation project that helps users practice buy and sell decisions with market-style
-        interface flows and virtual portfolio actions.
-      </p>
-      <p>
-        <b>Highlights:</b> trading UI, virtual transactions, market data integration, beginner-friendly simulation flow.
-      </p>
+      <p><img src="https://img.shields.io/badge/Frontend_App-2563EB?style=flat-square" alt="Frontend App" />
+      <img src="https://img.shields.io/badge/Trading_Simulator-0F766E?style=flat-square" alt="Trading Simulator" /></p>
+      <p>A trading simulator for practicing buy and sell decisions with market-style flows and virtual portfolio actions.</p>
+      <p><b>Built:</b> trading UI, virtual transactions, market data integration, beginner-friendly flow.</p>
+      <p><b>Stack:</b> React.js, JavaScript, API Integration</p>
       <p>
         <a href="https://github.com/6604bhumikar?tab=repositories&q=tradesim">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
