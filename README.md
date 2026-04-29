@@ -52,16 +52,19 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
 
 ## Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Core_Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML_Pipelines-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-</p>
+<h4 align="center">Languages Used</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,tailwind,nodejs,express,mongodb" alt="Core development skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" alt="Languages used" />
 </p>
+
+<h4 align="center">Frameworks & Libraries</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,django,flask,mongodb" alt="Frameworks and libraries" />
+</p>
+
+<h4 align="center">Data, AI & Tools</h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,postman,vscode" alt="ML and tools" />
@@ -176,8 +179,6 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ML_%26_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python ML and AI" />
-  <img src="https://img.shields.io/badge/Python-Backend_APIs-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend APIs" />
-  <img src="https://img.shields.io/badge/Python-Data_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Projects" />
   <img src="https://img.shields.io/badge/Scikit--Learn-Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Streamlit-Data_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/RAG-LangChain-1C3C3C?style=for-the-badge" alt="RAG LangChain" />
