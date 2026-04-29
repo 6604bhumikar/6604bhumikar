@@ -165,7 +165,14 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=6604bhumikar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6604bhumikar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ML_%26_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python ML and AI" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Streamlit-Data_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/RAG-LangChain-1C3C3C?style=for-the-badge" alt="RAG LangChain" />
+  <img src="https://img.shields.io/badge/MERN-Full_Stack-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="MERN Full Stack" />
 </p>
 
 <p align="center">
