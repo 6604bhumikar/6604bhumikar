@@ -52,53 +52,28 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
 
 ## Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React.js" />
-  <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/API-REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Analytics-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Data-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/AI-LangGraph-111827?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/AI-RAG-7C3AED?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI-Generative_AI-FF6B6B?style=for-the-badge" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Search-Semantic_Search-2563EB?style=for-the-badge" alt="Semantic Search" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
-</p>
+<table>
+  <tr>
+    <td width="25%"><b>Frontend</b></td>
+    <td>React.js, JavaScript, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js, Express.js, Django, REST APIs</td>
+  </tr>
+  <tr>
+    <td><b>Data & ML</b></td>
+    <td>Python, Pandas, SQL, Scikit-Learn, Streamlit</td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>RAG, LangChain, LangGraph, Generative AI</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, Postman, Power BI, VS Code</td>
+  </tr>
+</table>
 
 ---
 
@@ -106,49 +81,109 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Shikshana AI Learning Platform</h3>
-      <p><b>React.js | Node.js | Express.js | MongoDB | JWT | REST APIs</b></p>
-      <p>Full-stack e-learning platform with student and teacher dashboards, course creation, enrollment, assignments, quizzes, authentication, and planned AI-based learning enhancements.</p>
-      <ul>
-        <li>Built role-based student and teacher workflows</li>
-        <li>Designed APIs for courses, enrollment, assignments, and quizzes</li>
-        <li>Integrated frontend and backend using Axios</li>
-      </ul>
+      <p><b>React.js | Node.js | Express.js | MongoDB | JWT</b></p>
+      <p>
+        A full-stack learning management system for students and teachers, built around course workflows,
+        authentication, assignments, quizzes, enrollment, and AI-based learning support.
+      </p>
+      <p>
+        <b>Highlights:</b> role-based dashboards, course management APIs, secure login, assignment and quiz modules,
+        frontend-backend integration.
+      </p>
+      <p>
+        <a href="https://github.com/6604bhumikar?tab=repositories&q=shikshana">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>RAG AI Teaching Assistant 2.0</h3>
-      <p><b>LangChain | LangGraph | RAG | BGE-M3 | Groq API | Ollama</b></p>
-      <p>AI-powered Q&A assistant for recorded lectures using transcript processing, semantic retrieval, and LLM-based grounded answer generation.</p>
-      <ul>
-        <li>Built a RAG pipeline for lecture transcript search</li>
-        <li>Used LangGraph for multi-step reasoning</li>
-        <li>Supported cloud and local LLM workflows</li>
-      </ul>
+      <p><b>Python | LangChain | LangGraph | RAG | Groq API</b></p>
+      <p>
+        An AI-powered teaching assistant that answers questions from lecture transcripts using semantic retrieval
+        and grounded LLM responses.
+      </p>
+      <p>
+        <b>Highlights:</b> transcript processing, vector search, retrieval-augmented generation, multi-step reasoning,
+        cloud and local LLM support.
+      </p>
+      <p>
+        <a href="https://github.com/6604bhumikar/rag-ai-teaching-assistant-2.0">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>App-Builder AI</h3>
-      <p><b>Generative AI | Agentic AI | LangChain | LangGraph | Pydantic</b></p>
-      <p>Agentic AI platform that converts natural language prompts into structured codebases using validated tool schemas and multi-step generation workflows.</p>
+    <td width="50%" valign="top">
+      <h3>Credit & Fraud ML Projects</h3>
+      <p><b>Python | Scikit-Learn | Streamlit | Flask | Vercel</b></p>
+      <p>
+        A machine learning studio for credit default prediction and fraud detection with real-time scoring,
+        model metrics, and analyst-friendly risk explanations.
+      </p>
+      <p>
+        <b>Highlights:</b> imbalanced-data handling, threshold tuning, Flask APIs, Streamlit dashboard,
+        Vercel-ready deployment.
+      </p>
+      <p>
+        <a href="https://github.com/6604bhumikar/Credit-Fraud-ML">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3>Vendor Performance Analysis</h3>
+      <p><b>Python | SQL | Pandas | Power BI | Excel</b></p>
+      <p>
+        An analytics project focused on vendor performance, purchase behavior, inventory movement,
+        unsold capital, and business recommendations.
+      </p>
+      <p>
+        <b>Highlights:</b> SQL analysis, Python EDA, Power BI dashboards, KPI tracking, business insight reporting.
+      </p>
+      <p>
+        <a href="https://github.com/6604bhumikar/vendor-performance-analysis">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>App-Builder AI</h3>
+      <p><b>Python | LangChain | LangGraph | Pydantic</b></p>
+      <p>
+        An agentic AI project that converts natural language app ideas into structured code plans and
+        generated application files using validated tool schemas.
+      </p>
+      <p>
+        <b>Highlights:</b> prompt-to-app workflow, structured output validation, multi-step planning,
+        agent-style code generation.
+      </p>
+      <p>
+        <a href="https://github.com/6604bhumikar/App-Builder-AI">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>TradeSim</h3>
       <p><b>React.js | JavaScript | API Integration</b></p>
-      <p>Trading simulation platform that mimics real-time market behavior with API-powered insights and virtual buying/selling flows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Vendor Performance Analysis</h3>
-      <p><b>Python | SQL | Power BI | Pandas | Excel</b></p>
-      <p>End-to-end analytics project using SQL, Python EDA, and Power BI dashboards to identify vendor trends, unsold capital, and business recommendations.</p>
-    </td>
-    <td width="50%">
-      <h3>Credit & Fraud ML Projects</h3>
-      <p><b>Python | Scikit-Learn | Streamlit | ML Pipelines</b></p>
-      <p>Machine learning projects for credit risk prediction and fraud detection, focused on model evaluation, imbalanced data handling, and real-time prediction interfaces.</p>
+      <p>
+        A trading simulation project that helps users practice buy and sell decisions with market-style
+        interface flows and virtual portfolio actions.
+      </p>
+      <p>
+        <b>Highlights:</b> trading UI, virtual transactions, market data integration, beginner-friendly simulation flow.
+      </p>
+      <p>
+        <a href="https://github.com/6604bhumikar?tab=repositories&q=tradesim">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
