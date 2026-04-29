@@ -22,25 +22,55 @@ Currently, I am interning as a Full Stack Developer at RSC Systems and building 
 
 ---
 
-## Tech Stack
+## Skills
 
-**Frontend**
-HTML5, CSS3, JavaScript, React.js, React Router, Tailwind CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-**Backend**
-Node.js, Express.js, Django, REST APIs, JWT Authentication
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
 
-**Database**
-MongoDB, SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
 
-**Data Science and ML**
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, OpenCV, Streamlit
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-**Generative AI**
-LangChain, LangGraph, RAG, Semantic Search, BGE-M3 Embeddings, Groq API, Ollama, Pydantic
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
 
-**Tools**
-Git, GitHub, Postman, VS Code, Render, Power BI, Excel
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
+</p>
 
 ---
 
@@ -88,15 +118,6 @@ Agentic AI platform that converts natural language prompts into structured codeb
 **Python | SQL | Power BI | Pandas | Matplotlib | Seaborn | Excel**
 
 End-to-end analytics project using SQL, Python EDA, and Power BI dashboards to identify vendor performance trends, sales concentration, unsold capital, and business recommendations.
-
----
-
-## Certifications
-
-- Oracle Generative AI Professional
-- IBM RAG and Agentic AI
-- Machine Learning and Deep Learning - Scikit-Learn and TensorFlow
-- Microsoft Power BI - DAX and Advanced Analytics
 
 ---
 
