@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bhumika Ravikumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=760&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Building+MERN%2C+Django+and+AI-powered+apps;Exploring+Data+Science%2C+ML%2C+RAG+and+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=760&lines=Computer+Science+Engineering+Graduate;Full+Stack+Developer;Building+MERN%2C+Django+and+AI-powered+apps;Exploring+Data+Science%2C+ML%2C+RAG+and+Generative+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
