@@ -136,20 +136,7 @@ I am a Computer Science Engineering graduate from **C Byre Gowda Institute of Te
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>App-Builder AI</h3>
-      <p><img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" alt="Agentic AI" />
-      <img src="https://img.shields.io/badge/Code_Generation-111827?style=flat-square" alt="Code Generation" /></p>
-      <p>An AI workflow that turns natural language app ideas into structured plans and generated application files.</p>
-      <p><b>Built:</b> prompt-to-app flow, tool schemas, structured validation, multi-step planning.</p>
-      <p><b>Stack:</b> Python, LangChain, LangGraph, Pydantic</p>
-      <p>
-        <a href="https://github.com/6604bhumikar/App-Builder-AI">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" colspan="2" valign="top">
       <h3>TradeSim</h3>
       <p><img src="https://img.shields.io/badge/Frontend_App-2563EB?style=flat-square" alt="Frontend App" />
       <img src="https://img.shields.io/badge/Trading_Simulator-0F766E?style=flat-square" alt="Trading Simulator" /></p>
