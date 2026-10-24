@@ -20,11 +20,11 @@
 
 ## About Me
 
-I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of Technology** who enjoys building software that is practical, useful, and intelligent.
+I am a Computer Science Engineering graduate from **C Byre Gowda Institute of Technology** who enjoys building practical full-stack applications and AI-enabled Python projects.
 
-- Currently interning as a **Full Stack Developer at RSC Systems**
-- Building **Shikshana AI Learning Platform**, a student-teacher LMS with course workflows, authentication, assignments, quizzes, and AI-based learning features
-- Exploring **MERN, Django, Data Science, Machine Learning, RAG, LangChain, LangGraph, and Generative AI**
+- Completed a **Full Stack Developer internship at RSC Systems**, building web applications with React.js, Node.js, Express.js, and MongoDB
+- Built **Shikshana AI Learning Platform**, a student-teacher LMS with course workflows, authentication, assignments, and quizzes
+- Skilled in **Python, JavaScript, C, SQL, React.js, Node.js, Express.js, Django, MongoDB, and machine learning tools**
 - Interested in full-stack engineering, EdTech, intelligent apps, and data-driven product experiences
 
 ---
@@ -35,15 +35,11 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
   <tr>
     <td width="33%" align="center">
       <h3>Full Stack</h3>
-      React, Node.js, Express, Django, MongoDB, REST APIs, JWT
+      React.js, Node.js, Express.js, Django, MongoDB, REST APIs, JWT Authentication
     </td>
     <td width="33%" align="center">
       <h3>Data & ML</h3>
-      Python, SQL, Pandas, Power BI, Scikit-Learn, TensorFlow, OpenCV
-    </td>
-    <td width="33%" align="center">
-      <h3>Generative AI</h3>
-      RAG, LangChain, LangGraph, Semantic Search, Groq API, Ollama
+      Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, Streamlit, NLP basics
     </td>
   </tr>
 </table>
@@ -55,26 +51,26 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
 <h4 align="center">Languages Used</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" alt="Languages used" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,html,css" alt="Languages used" />
 </p>
 
 <h4 align="center">Frameworks & Libraries</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,django,flask,mongodb" alt="Frameworks and libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb" alt="Frameworks and libraries" />
 </p>
 
 <h4 align="center">Data, AI & Tools</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,postman,vscode" alt="ML and tools" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,postman,vscode" alt="ML and tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
@@ -93,19 +89,6 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
       <p><b>Stack:</b> React.js, Node.js, Express.js, MongoDB, JWT</p>
       <p>
         <a href="https://github.com/6604bhumikar?tab=repositories&q=shikshana">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>RAG AI Teaching Assistant 2.0</h3>
-      <p><img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" alt="Generative AI" />
-      <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" /></p>
-      <p>An AI assistant that answers lecture questions using transcript processing, semantic search, and grounded generation.</p>
-      <p><b>Built:</b> retrieval pipeline, vector search, LangGraph workflow, cloud and local LLM support.</p>
-      <p><b>Stack:</b> Python, LangChain, LangGraph, RAG, Groq API</p>
-      <p>
-        <a href="https://github.com/6604bhumikar/rag-ai-teaching-assistant-2.0">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
       </p>
@@ -159,7 +142,7 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
       <img src="https://img.shields.io/badge/Trading_Simulator-0F766E?style=flat-square" alt="Trading Simulator" /></p>
       <p>A trading simulator for practicing buy and sell decisions with market-style flows and virtual portfolio actions.</p>
       <p><b>Built:</b> trading UI, virtual transactions, market data integration, beginner-friendly flow.</p>
-      <p><b>Stack:</b> React.js, JavaScript, API Integration</p>
+      <p><b>Stack:</b> Python, API Integration</p>
       <p>
         <a href="https://github.com/6604bhumikar?tab=repositories&q=tradesim">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -181,7 +164,7 @@ I am a Computer Science Engineering undergraduate at **C Byre Gowda Institute of
   <img src="https://img.shields.io/badge/Python-ML_%26_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python ML and AI" />
   <img src="https://img.shields.io/badge/Scikit--Learn-Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Streamlit-Data_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/RAG-LangChain-1C3C3C?style=for-the-badge" alt="RAG LangChain" />
+  <img src="https://img.shields.io/badge/SQL-Database_Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MERN-Full_Stack-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="MERN Full Stack" />
 </p>
 
