@@ -93,6 +93,19 @@ I am a Computer Science Engineering graduate from **C Byre Gowda Institute of Te
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>HR Employee Attrition Prediction</h3>
+      <p><img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Streamlit_Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit Dashboard" /></p>
+      <p>An interactive HR dashboard for exploring workforce attrition and estimating an employee's attrition risk.</p>
+      <p><b>Built:</b> employee and department attrition metrics, a prediction form, risk scores, and retention suggestions.</p>
+      <p><b>Stack:</b> Python, Streamlit, Pandas, Scikit-Learn, Random Forest, Joblib</p>
+      <p>
+        <a href="https://github.com/6604bhumikar?tab=repositories&q=HR-Employee-Attrition">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
